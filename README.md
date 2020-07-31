@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-💻 Im just like coding in python
+💻 Im just like to code in python
